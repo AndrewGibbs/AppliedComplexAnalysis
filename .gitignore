@@ -9,3 +9,5 @@ previous_versions/
 code/.ipynb_checkpoints/
 
 Manifest.toml
+
+.vscode/
